@@ -23,6 +23,13 @@ if __name__ == '__main__':
 # als deze app.py gerund wordt met python3, dan kun je via 127.0.0.1:5000 de pagina bekijken
 # hostname -I zoekt ip-adres op van huidige netwerk, dan poort 5000 van dat ip-adres laat website zien
 
+#input voor facebook
+#https://developers.facebook.com/docs/marketing-api/using-the-api
+#https://developers.facebook.com/apps/1778149219099233/dashboard/
+#https://developers.facebook.com/search/?q=preview
+#https://developers.facebook.com/docs/facebook-login/access-tokens/
+
+
 
 # https://www.raspberrypi.org/learning/python-web-server-with-flask/worksheet/
 
